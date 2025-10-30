@@ -1,4 +1,3 @@
 # requirments.txt
 streamlit
-snowflake-snowpark-python==1.16.0
-pandas
+snowflake-snowpark-python
